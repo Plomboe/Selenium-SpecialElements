@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Input Text Box", "SpecialElements\01.Input Text Box.csproj", "{BDB1BC60-4E3B-4E9A-A331-3EE0DFFFFCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CheckBox", "CheckBox\02.CheckBox.csproj", "{5AD1792F-5F4B-4E58-8825-4462D9B1FC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RadioButton", "03.RadioButton\03.RadioButton.csproj", "{1B4D922D-D438-4648-B0B0-E39733AE300E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB1BC60-4E3B-4E9A-A331-3EE0DFFFFCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB1BC60-4E3B-4E9A-A331-3EE0DFFFFCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB1BC60-4E3B-4E9A-A331-3EE0DFFFFCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB1BC60-4E3B-4E9A-A331-3EE0DFFFFCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD1792F-5F4B-4E58-8825-4462D9B1FC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD1792F-5F4B-4E58-8825-4462D9B1FC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD1792F-5F4B-4E58-8825-4462D9B1FC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD1792F-5F4B-4E58-8825-4462D9B1FC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4D922D-D438-4648-B0B0-E39733AE300E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4D922D-D438-4648-B0B0-E39733AE300E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4D922D-D438-4648-B0B0-E39733AE300E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4D922D-D438-4648-B0B0-E39733AE300E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
